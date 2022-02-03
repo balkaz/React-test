@@ -17,7 +17,7 @@ const Header = () => {
   return (
     <Navbar bg="primary" variant="dark">
       <Container>
-        <Navbar.Brand href="#home">React Test</Navbar.Brand>
+        <Navbar.Brand href="#home"><h1>LOGO</h1> </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ml-auto">
